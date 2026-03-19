@@ -23,6 +23,10 @@ Test the full pipeline to ensure smooth operation from user input to image gener
 ### STEP 5:
 Deploy the application for public or internal access using local hosting or a cloud-based platform.Ensure security, accessibility, and scalability of the deployed system.Monitor performance and make iterative improvements as needed.
 
+
+### NAME : KIRAN MP
+### REGISTER NO : 212224230123
+
 ### PROGRAM:
 ```py
 import os
@@ -77,7 +81,7 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 ```
 
 ### OUTPUT:
-
+![hi](Screenshot%202026-03-19%20200453.png)
 
 ### RESULT:
 The prototype enables high-quality image generation from text prompts using the Stable Diffusion model. It features an intuitive Gradio interface and is ready for deployment and further development.
